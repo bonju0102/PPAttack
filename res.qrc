@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/images/PP.png</file>
+        <file>resources/images/shit.png</file>
+        <file>resources/images/enemy1.png</file>
+        <file>resources/images/GG.png</file>
+        <file>resources/images/pee.png</file>
+        <file>resources/images/bullet1.png</file>
+        <file>resources/images/hammer.png</file>
+        <file>resources/images/enemy3.png</file>
+        <file>resources/images/enemy2.png</file>
+        <file>resources/images/background1.png</file>
+    </qresource>
+</RCC>
